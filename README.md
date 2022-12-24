@@ -1,3 +1,3 @@
-# buildspace 
+# Compose.ai
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+This is an under development webapp that I am working on that uses OpenAI's GPT-3 to generate poetic verses.
