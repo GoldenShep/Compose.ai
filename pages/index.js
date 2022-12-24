@@ -1,7 +1,5 @@
 import { useState } from 'react';
 import Head from 'next/head';
-import Image from 'next/image';
-import buildspaceLogo from '../assets/buildspace-logo.png';
 
 const Home = () => {
   const [userInput, setUserInput] = useState('');
@@ -78,13 +76,12 @@ const Home = () => {
       </div>
       <div className="badge-container grow">
         <a
-          href="https://buildspace.so/builds/ai-writer"
+          href="https://www.buymeacoffee.com/ThisIsShep"
           target="_blank"
           rel="noreferrer"
         >
           <div className="badge">
-            <Image src={buildspaceLogo} alt="buildspace logo" />
-            <p>build with buildspace</p>
+            <p>Buy Me a Coffee</p>
           </div>
         </a>
       </div>
