@@ -74,17 +74,6 @@ const Home = () => {
           )}
         </div>
       </div>
-      <div className="badge-container grow">
-        <a
-          href="https://www.buymeacoffee.com/ThisIsShep"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <div className="badge">
-            <p>Buy Me a Coffee</p>
-          </div>
-        </a>
-      </div>
     </div>
   );
 };
